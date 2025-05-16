@@ -49,3 +49,10 @@
    | Split Complementary  | #5074DB   | ![палітра](images/Group5.png) |      |
    | Square          | #5074DB        | ![палітра](images/Group6.png) |      |
    | Custom          | #5074DB        | ![палітра](images/Group9.png) |      |
+2. Створення палітри зображенням (Extract Theme):
+   ![палітра](images/svt.png)
+   | Тип |	Скріншот |	Коментар |
+   |-----|-----------|-----------|
+   | Colorful | ![палітра](images/photo1.jpg) | |
+   | Muted | ![палітра](images/photo2.jpg) | |
+
