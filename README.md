@@ -55,4 +55,12 @@
    |-----|-----------|-----------|
    | Colorful | ![палітра](images/photo1.jpg) | |
    | Muted | ![палітра](images/photo2.jpg) | |
+   #### Яка палітра більше підходить
+3. Створення градієнту на основі зображення (Extract Gradient):
+   ![палітра](images/photo3.png)
+4. Аналіз контрасту (Accessibility Tools):
+   ![палітра](images/photo4.png)
+   #### Висновок: ...
+
+
 
