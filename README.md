@@ -50,7 +50,7 @@
    | Square          | #5074DB        | ![палітра](images/Group6.png) |      |
    | Custom          | #5074DB        | ![палітра](images/Group9.png) |      |
 2. Створення палітри зображенням (Extract Theme):
-   ![палітра](images/svt.png)
+   ![палітра](images/stv.png)
    | Тип |	Скріншот |	Коментар |
    |-----|-----------|-----------|
    | Colorful | ![палітра](images/photo1.jpg) | |
