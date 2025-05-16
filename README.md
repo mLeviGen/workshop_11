@@ -42,10 +42,10 @@
 1. Робота з колірним колесом (Color Wheel):
    | Тип гармонії    |	Базовий колір |	Скріншот |	Логіка побудови і передбачуваний емоційний ефект |
    |-----------------|----------------|------------|---------------------------------------------------|
-   | Analogous       | #5074DB        | ![палітра](images/Group 1.png) |      |
-   | Monochromatic   | #5074DB        | ![палітра](images/Group 2.png) |      |
-   | Triad           | #5074DB        | ![палітра](images/Group 3.png) |      |
-   | Complementary   | #5074DB        | ![палітра](images/Group 4.png) |      |
-   | Split Complementary  | #5074DB   | ![палітра](images/Group 5.png) |      |
-   | Square          | #5074DB        | ![палітра](images/Group 6.png) |      |
-   | Custom          | #5074DB        | ![палітра](images/Group 9.png) |      |
+   | Analogous       | #5074DB        | ![палітра](images/Group1.png) |      |
+   | Monochromatic   | #5074DB        | ![палітра](images/Group2.png) |      |
+   | Triad           | #5074DB        | ![палітра](images/Group3.png) |      |
+   | Complementary   | #5074DB        | ![палітра](images/Group4.png) |      |
+   | Split Complementary  | #5074DB   | ![палітра](images/Group5.png) |      |
+   | Square          | #5074DB        | ![палітра](images/Group6.png) |      |
+   | Custom          | #5074DB        | ![палітра](images/Group9.png) |      |
